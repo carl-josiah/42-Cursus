@@ -1,0 +1,30 @@
+[submodule "cub3D"]
+	path = cub3D
+	url = https://github.com/carl-josiah/cub3D.git
+[submodule "frac-tol"]
+	path = frac-tol
+	url = https://github.com/carl-josiah/frac-tol.git
+[submodule "ft_printf"]
+	path = ft_printf
+	url = https://github.com/carl-josiah/ft_printf.git
+[submodule "get_next_line"]
+	path = get_next_line
+	url = https://github.com/carl-josiah/get_next_line.git
+[submodule "libft-custom"]
+	path = libft-custom
+	url = https://github.com/carl-josiah/libft-custom.git
+[submodule "libft"]
+	path = libft
+	url = https://github.com/carl-josiah/libft.git
+[submodule "minishell"]
+	path = minishell
+	url = https://github.com/carl-josiah/minishell.git
+[submodule "minitalk"]
+	path = minitalk
+	url = https://github.com/carl-josiah/minitalk.git
+[submodule "philosophers"]
+	path = philosophers
+	url = https://github.com/carl-josiah/philosophers.git
+[submodule "push_swap"]
+	path = push_swap
+	url = https://github.com/carl-josiah/push_swap.git
