@@ -28,3 +28,6 @@
 [submodule "push_swap"]
 	path = push_swap
 	url = https://github.com/carl-josiah/push_swap.git
+[submodule "bukoshell"]
+	path = bukoshell
+	url = https://github.com/SeanAndrie/bukoshell.git
