@@ -31,3 +31,6 @@
 [submodule "bukoshell"]
 	path = bukoshell
 	url = https://github.com/SeanAndrie/bukoshell.git
+[submodule "cpp-modules"]
+	path = cpp-modules
+	url = https://github.com/carl-josiah/cpp-modules.git
