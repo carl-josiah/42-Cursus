@@ -34,3 +34,9 @@
 [submodule "cpp-modules"]
 	path = cpp-modules
 	url = https://github.com/carl-josiah/cpp-modules.git
+[submodule "born2beroot"]
+	path = born2beroot
+	url = https://github.com/carl-josiah/born2beroot
+[submodule "netpractice"]
+	path = netpractice
+	url = https://github.com/carl-josiah/netpractice
